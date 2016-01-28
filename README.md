@@ -1,3 +1,3 @@
 # Jersey-experimentation
 
-This service uses a jetty server and hosts REST services implemented using jersey.
+This repo uses a jetty server and hosts REST services implemented using jersey.
